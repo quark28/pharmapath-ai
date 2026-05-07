@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "training_time_sec": 27.2,
+  "value_model": {
+    "rmse": 4.3789,
+    "mae": 3.4464,
+    "r2": 0.9767
+  },
+  "probability_model": {
+    "roc_auc": 0.7075,
+    "pr_auc": 0.8576,
+    "brier": 0.2316,
+    "logloss": 0.656
+  }
+}

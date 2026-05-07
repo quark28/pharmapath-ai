@@ -1,0 +1,42 @@
+{
+  "value_model": {
+    "features": [
+      "specialty",
+      "category",
+      "avg_sales_brick",
+      "loyalty_score",
+      "days_since_last_visit",
+      "total_visits",
+      "success_rate",
+      "avg_duration",
+      "visits_last_90d",
+      "trend_loyalty"
+    ],
+    "cat_features": [
+      "specialty",
+      "category"
+    ]
+  },
+  "probability_model": {
+    "features": [
+      "specialty",
+      "category",
+      "day_of_week",
+      "hour",
+      "is_morning",
+      "is_friday",
+      "is_weekend",
+      "loyalty_score",
+      "days_since_prev_visit",
+      "month",
+      "visits_last_30d",
+      "historical_success_rate"
+    ],
+    "cat_features": [
+      "specialty",
+      "category",
+      "day_of_week",
+      "month"
+    ]
+  }
+}

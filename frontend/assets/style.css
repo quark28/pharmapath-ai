@@ -1,0 +1,29 @@
+/* PharmaPath AI — Custom Styles */
+
+/* Убираем padding сверху */
+.block-container {
+    padding-top: 1rem;
+}
+
+/* Метрики */
+[data-testid="stMetricValue"] {
+    font-size: 1.8rem;
+}
+
+/* Карта на полную ширину */
+iframe {
+    border-radius: 8px;
+}
+
+/* Скрыть hamburger menu в демо */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+
+/* Route stop cards */
+.route-card {
+    border-left: 4px solid #3498db;
+    padding: 8px 12px;
+    margin-bottom: 8px;
+    background: #f8f9fa;
+    border-radius: 4px;
+}

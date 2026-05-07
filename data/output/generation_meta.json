@@ -1,0 +1,31 @@
+{
+  "seed": 42,
+  "generated_at": "2026-03-27",
+  "counts": {
+    "doctors": 500,
+    "reps": 10,
+    "visits": 6697
+  },
+  "distributions": {
+    "category": {
+      "A": 106,
+      "B": 250,
+      "C": 144
+    },
+    "specialty": {
+      "Therapist": 133,
+      "Cardiologist": 103,
+      "Neurologist": 65,
+      "Gastroenterologist": 57,
+      "Endocrinologist": 49,
+      "Pulmonologist": 41,
+      "Rheumatologist": 28,
+      "Urologist": 24
+    },
+    "visit_status": {
+      "Cancelled": 1030,
+      "Moved": 636,
+      "Success": 5031
+    }
+  }
+}
