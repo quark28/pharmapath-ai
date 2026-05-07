@@ -11,8 +11,6 @@
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)](https://docker.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit)](https://streamlit.io)
 
-*Проект для курса «Модели и технологии цифровой трансформации»*
-
 </div>
 
 ---
