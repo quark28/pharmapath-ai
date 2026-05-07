@@ -73,7 +73,7 @@
 ### Вариант 1: Docker (рекомендуется)
 
 ```bash
-git clone https://github.com/your-repo/pharmapath-ai.git
+git clone https://github.com/quark28/pharmapath-ai.git
 cd pharmapath-ai
 
 # Генерация данных и обучение моделей
@@ -221,15 +221,5 @@ python -m pytest tests/ -v
 - [ ] Real-time GPS tracking
 - [ ] A/B тестирование маршрутов
 - [ ] Интеграция с CRM (Veeva, OCE)
-
-## 👥 Авторы
-
-- **[Ваше имя]** — архитектура, ML, backend, frontend
-
----
-
-<div align="center">
-
-*Сделано с ❤️ для курса «Модели и технологии цифровой трансформации»*
 
 </div>
